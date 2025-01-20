@@ -1,4 +1,6 @@
-## Hi I'm Hugh!
+# Hi I'm Hugh!
+
+# [Programmer](https://github.com/Hugh-Kumbi) & [Cybersecurity Professional](www.linkedin.com/in/hugh-chanetsa)
 
 ## Professional Summary 🛠️📈
 
