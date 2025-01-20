@@ -28,17 +28,21 @@ My unique combination of technical skills, diverse academic experience, and a pr
 - A Bachelor of Commerce (Honors) degree from the University of Cape Town
 - A Bachelor’s degree in Social Sciences from the University of Cape Town
 
-<!--
-**Hugh-Kumbi/Hugh-Kumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Resume 🌐
+[Hugh Chanetsa's Resume](https://www.canva.com)
 
-Here are some ideas to get you started:
+## Eager to Contribute and Innovate 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am eager to apply my cybersecurity knowledge and skills to challenging roles at leading organizations, where I can contribute to cutting-edge security initiatives.
+ 
+## Connect with Me 🤳
+
+Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.hugh@protonmail.com. I’d love to network and share insights.
+
+[<img align="left" alt="HughChanetsa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HughChanetsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HughChanetsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/hugh_chanetsa
+[linkedin]: https://linkedin.com/in/hugh-chanetsa
+[instagram]: https://www.instagram.com/hugh_kumbi
