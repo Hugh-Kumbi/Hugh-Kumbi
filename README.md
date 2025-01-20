@@ -30,6 +30,18 @@ My unique combination of technical skills, diverse academic experience, and a pr
 - A Bachelor of Commerce (Honors) degree from the University of Cape Town
 - A Bachelor’s degree in Social Sciences from the University of Cape Town
 
+## Cybersecurity Portfolio
+Discover more of my work in these standalone portfolios:
+
+- Python - Cybersecurity - Automation Case
+- University - Course Work - Projects
+
+## Supplementary Portfolio
+Discover more of my work in these standalone portfolios:
+
+- Python - Cybersecurity - Automation Case
+- University - Course Work - Projects
+
 ## Resume 🌐
 [Hugh Chanetsa's Resume](https://www.canva.com)
 
