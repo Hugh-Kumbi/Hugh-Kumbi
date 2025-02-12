@@ -47,8 +47,6 @@ Discover more of my work in these standalone portfolios:
 ## Resume 🌐
 [Hugh Chanetsa's Resume](https://drive.proton.me/urls/053QSG9DVW#KAYpvzqwlhLZ)
 
-[Hugh Chanetsa's Resume](https://drive.proton.me/urls/HP8JA7YBCC#KWV9dfndikT7)
-
 ## Eager to Contribute and Innovate 💡
 
 I am eager to apply my cybersecurity knowledge and skills to challenging roles at leading organizations, where I can contribute to cutting-edge security initiatives.
