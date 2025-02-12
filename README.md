@@ -23,6 +23,8 @@ My unique combination of technical skills, diverse academic experience, and a pr
 - [University of the People Certification in Data Science](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1732157734259/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
 - [University of the People Certification in Network and Application Security](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1735599179427/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
 - [Google Cybersecurity Professional Certification](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1739398720272/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
+- **CompTIA Security+ (In progress)**
 
 ## Education 📚
 
@@ -43,7 +45,7 @@ Discover more of my work in these standalone portfolios:
 - University - Course Work - Projects
 
 ## Resume 🌐
-[Hugh Chanetsa's Resume](https://www.canva.com)
+[Hugh Chanetsa's Resume](https://drive.proton.me/urls/053QSG9DVW#KAYpvzqwlhLZ)
 
 ## Eager to Contribute and Innovate 💡
 
