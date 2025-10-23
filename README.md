@@ -45,7 +45,7 @@ Discover more of my work in these standalone portfolios:
 - University - Course Work - Projects
 
 ## Resume 🌐
-[Hugh Chanetsa's Resume](https://drive.proton.me/urls/053QSG9DVW#KAYpvzqwlhLZ)
+[Hugh Chanetsa's Resume](https://drive.google.com/file/d/1DkfR7NEAX7KIdr7eKiowKjJVdMzXKevi/view?usp=drive_link)
 
 ## Eager to Contribute and Innovate 💡
 
