@@ -41,8 +41,10 @@ Discover more of my work in these standalone portfolios:
 ## Supplementary Portfolio
 Discover more of my work in these standalone portfolios:
 
-- Python - Cybersecurity - Automation Case
-- University - Course Work - Projects
+- [Cybersecurity-Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
+- [Python-Driven-Cybersecurity-Case-Study](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study)
+- [Hugh-Kumbi-Active-Directory-Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
+- [Vulnerability-Management-Portfolio](https://github.com/Hugh-Kumbi/Vulnerability-Management-Portfolio)
 
 ## Resume 🌐
 [Hugh Chanetsa's Resume](https://drive.google.com/file/d/1d796lZVXzIRaN2d_zb3EQSSPzBnEQ3MK/view?usp=drive_link)
