@@ -2,6 +2,8 @@
 
 # [Programmer](https://github.com/Hugh-Kumbi) & [Cybersecurity Professional](www.linkedin.com/in/hugh-chanetsa)
 
+---
+
 ## Professional Summary 🛠️📈
 
 I am Hugh Chanetsa, a dedicated and results-driven cybersecurity professional with a multidisciplinary academic background and a strong commitment to safeguarding digital environments. I hold:
@@ -18,6 +20,8 @@ With expertise in Application Development Security, Networking, and System Admin
 
 My unique combination of technical skills, diverse academic experience, and a proactive approach to cybersecurity enables me to tackle complex challenges while driving innovation in this critical field.
 
+---
+
 ## Certifications 🎓
 
 - [University of the People Certification in Data Science](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1732157734259/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
@@ -26,19 +30,17 @@ My unique combination of technical skills, diverse academic experience, and a pr
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/6f7110f1-be3e-4582-a5e2-17a5d5df21fb/linked_in?t=t7uthu)
 - **CompTIA Security+ (In progress)**
 
+---
+
 ## Education 📚
 
 - A Bachelor’s degree in Computer Science from the University of the People
 - A Bachelor of Commerce (Honors) degree from the University of Cape Town
 - A Bachelor’s degree in Social Sciences from the University of Cape Town
 
+---
+
 ## Cybersecurity Portfolio
-Discover more of my work in these standalone portfolios:
-
-- Python - Cybersecurity - Automation Case
-- University - Course Work - Projects
-
-## Supplementary Portfolio
 Discover more of my work in these standalone portfolios:
 
 - [Cybersecurity-Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
@@ -46,12 +48,18 @@ Discover more of my work in these standalone portfolios:
 - [Hugh-Kumbi-Active-Directory-Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
 - [Vulnerability-Management-Portfolio](https://github.com/Hugh-Kumbi/Vulnerability-Management-Portfolio)
 
+---
+
 ## Resume 🌐
 [Hugh Chanetsa's Resume](https://drive.google.com/file/d/1d796lZVXzIRaN2d_zb3EQSSPzBnEQ3MK/view?usp=drive_link)
+
+---
 
 ## Eager to Contribute and Innovate 💡
 
 I am eager to apply my cybersecurity knowledge and skills to challenging roles at leading organizations, where I can contribute to cutting-edge security initiatives.
+
+---
  
 ## Connect with Me 🤳
 
