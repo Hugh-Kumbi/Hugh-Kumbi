@@ -8,8 +8,12 @@
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![OpenVAS](https://img.shields.io/badge/-OpenVAS-00C853?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CkvG4fgAAADVSURBVCgVY2AYBaNgFIwCBgYGBkYGBgYGBgYGBoZRMApGwSgYBUPFQYH///+fAYqBgIGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBoQ4AAP//AwDVAQ0BgAAAABJRU5ErkJggg==&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Nessus](https://img.shields.io/badge/-Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![SIEM](https://img.shields.io/badge/-SIEM-00B8D4?style=flat-square&logo=splunk&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/Hugh-Kumbi)
 
 > Building secure systems and defending against cyber threats. Passionate about proactive threat detection, secure application development, and protecting organizations from evolving security challenges.
 
@@ -39,6 +43,25 @@ I'm a multidisciplinary cybersecurity professional combining technical expertise
 - 🔄 **CompTIA Security+** (In Progress)
 
 ## Featured Projects
+
+### 🎯 [Vulnerability Management Portfolio](https://github.com/Hugh-Kumbi/Vulnerability-Management-Portfolio)
+**Professional end-to-end vulnerability assessment framework demonstrating enterprise security operations.**
+
+A comprehensive vulnerability management lifecycle project showcasing:
+- Multi-scanner vulnerability assessment (OpenVAS, Nessus Essentials Plus)
+- Risk-based prioritization using CVSS + business impact analysis
+- Compliance mapping across NIST 800-53, ISO 27001, CIS Controls, PCI-DSS, HIPAA
+- Python automation for scan orchestration and reporting
+- Flask-based real-time metrics dashboard
+- SIEM integration (Wazuh) with correlation rules
+- 175+ vulnerable services across isolated lab environment (Metasploitable2/3, DVWA, OWASP Juice Shop)
+- Professional executive and technical reporting
+
+**Tech:** `OpenVAS` `Nessus` `Python` `Flask` `Wazuh` `Docker` `VMware` `NIST` `ISO 27001` `Jupyter`
+
+**Key Achievement:** Built enterprise-grade vulnerability management lab demonstrating 225+ CVE assessments with automated remediation workflows and multi-framework compliance validation.
+
+---
 
 ### 🛡️ [Cybersecurity Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
 Comprehensive portfolio demonstrating security frameworks, incident response, and hands-on tools:
@@ -81,12 +104,19 @@ Portfolio hub featuring documentation, academic projects, and professional devel
 
 ## Technical Skills
 
+**Vulnerability Management & Assessment**
+- Vulnerability Scanning (OpenVAS, Nessus Essentials Plus, Nuclei)
+- Risk Assessment & Prioritization (CVSS, Business Impact Analysis)
+- Compliance Frameworks (NIST 800-53, ISO 27001, CIS Controls, PCI-DSS, HIPAA)
+- Patch Management & Remediation Validation
+- False Positive Analysis & Multi-Scanner Correlation
+
 **Security Operations**
 - Threat Detection & Incident Response
-- Vulnerability Assessment & Management
 - Security Auditing & Compliance (NIST, ISO)
 - Intrusion Detection Systems (Suricata)
-- SIEM Tools (Splunk, Chronicle)
+- SIEM Tools (Splunk, Chronicle, Wazuh)
+- Network Traffic Analysis (Wireshark, tcpdump)
 
 **Development & Automation**
 - Python (Security Automation, Scripting)
@@ -100,18 +130,37 @@ Portfolio hub featuring documentation, academic projects, and professional devel
 - Linux System Administration
 - Network Security & Monitoring
 - TCP/IP, DNS, DHCP
+- Virtualization (VMware Workstation)
+- Lab Environment Design & Isolation
 
 **Tools & Technologies**
 - Wireshark, tcpdump, Nmap
+- Docker & Container Security
 - Jupyter Notebooks
 - Git & Version Control
 - Virtual Lab Environments
+- Flask Web Development
 
-## GitHub Stats
+## 📊 Portfolio Impact
 
-![Hugh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hugh-Kumbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/CVEs_Assessed-225+-critical?style=for-the-badge" alt="CVEs Assessed" />
+  <img src="https://img.shields.io/badge/Compliance-5_Frameworks-blue?style=for-the-badge" alt="Compliance Frameworks" />
+  <img src="https://img.shields.io/badge/Lab_Environments-4_Active-green?style=for-the-badge" alt="Lab Environments" />
+  <img src="https://img.shields.io/badge/Certifications-4+-orange?style=for-the-badge" alt="Certifications" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugh-Kumbi&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Security_Tools-OpenVAS_|_Nessus_|_Wazuh-red?style=for-the-badge" alt="Security Tools" />
+  <img src="https://img.shields.io/badge/Automation-Python_|_PowerShell_|_Flask-yellow?style=for-the-badge" alt="Automation" />
+</p>
+
+**Key Achievements:**
+- 🎯 **225+ CVEs** assessed across OpenVAS & Nessus scanners
+- 🛡️ **5 Compliance Frameworks** mapped (NIST 800-53, ISO 27001, PCI-DSS, HIPAA, CIS Controls)
+- 🔧 **4 Enterprise Labs** built (175+ vulnerable services, isolated environments)
+- 📊 **Python Automation** - 20+ security scripts, Flask dashboard, SIEM integration
+- 🏅 **Industry Certifications** - Google Cybersecurity Pro, ISC2 CC, Security+ (in progress)
 
 ## What Drives Me
 
