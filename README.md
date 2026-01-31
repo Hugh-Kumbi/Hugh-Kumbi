@@ -1,74 +1,143 @@
-# Hi I'm Hugh!
+# Hi, I'm Hugh Chanetsa 👋
 
-# [Programmer](https://github.com/Hugh-Kumbi) & [Cybersecurity Professional](www.linkedin.com/in/hugh-chanetsa)
+📍 **Hiroshima, Japan** | 🛡️ **Cybersecurity Professional** | 💻 **Software Engineer** | 🚀 **Founder**
 
----
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/Hugh-Kumbi)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![SIEM](https://img.shields.io/badge/-SIEM-00B8D4?style=flat-square&logo=splunk&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/Hugh-Kumbi)
 
-## Professional Summary 🛠️📈
+> Building secure systems and defending against cyber threats. Passionate about proactive threat detection, secure application development, and protecting organizations from evolving security challenges.
 
-I am Hugh Chanetsa, a dedicated and results-driven cybersecurity professional with a multidisciplinary academic background and a strong commitment to safeguarding digital environments. I hold:
+## About Me
 
-- A Bachelor’s degree in Computer Science specializing in Software Engineering
-- A Bachelor of Commerce (Honors) degree specializing in Management Studies
-- A Bachelor’s degree in Social Sciences, focusing on International Relations and Affairs, Economic History, and Industrial Sociology
+I'm a multidisciplinary cybersecurity professional combining technical expertise with a unique educational background spanning computer science, business, and social sciences. Based in Japan, I'm actively seeking cybersecurity opportunities while building **[Mei Vault Systems](https://meivaultsystems.com/)** - a security-focused startup project where I'm developing practical solutions and expanding my technical portfolio.
 
-With expertise in Application Development Security, Networking, and System Administration, I am passionate about proactively identifying and neutralizing cyber threats to protect organizations and individuals from financial harm. Guided by a strong commitment to ethical standards and problem-solving, I strive to help organizations achieve their security goals by:
+**Education:**
+- 🎓 B.S. Computer Science (Software Engineering) - University of the People
+- 📊 B.Com (Hons) Management Studies - University of Cape Town
+- 🌐 B.A. Social Sciences (IR, Economic History, Industrial Sociology) - University of Cape Town
 
-- Safeguarding their networks
-- Developing secure applications to prevent intrusions
-- Mitigating risks effectively
+## Current Focus
 
-My unique combination of technical skills, diverse academic experience, and a proactive approach to cybersecurity enables me to tackle complex challenges while driving innovation in this critical field.
+- 🔐 Application Development Security & Secure Coding Practices
+- 🌐 Network Security & System Administration
+- 🤖 Python Automation for Security Operations
+- 📊 Security Information & Event Management (SIEM)
+- 🎯 Risk Assessment & Mitigation Strategies
 
----
+## Certifications
 
-## Certifications 🎓
+- 🏅 [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+- 🏅 [ISC2 Certified in Cybersecurity (CC)](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1739398720272/)
+- 🏅 [Network and Application Security - University of the People](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1735599179427/)
+- 🏅 [Data Science Certificate - University of the People](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1732157734259/)
+- 🔄 **CompTIA Security+** (In Progress)
 
-- [University of the People Certification in Data Science](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1732157734259/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
-- [University of the People Certification in Network and Application Security](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1735599179427/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
-- [Google Cybersecurity Professional Certification](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
-- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/6f7110f1-be3e-4582-a5e2-17a5d5df21fb/linked_in?t=t7uthu)
-- **CompTIA Security+ (In progress)**
+## Featured Projects
 
----
+### 🛡️ [Cybersecurity Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
+Comprehensive portfolio demonstrating security frameworks, incident response, and hands-on tools:
+- NIST Cybersecurity Framework implementation
+- Security audits and risk assessments
+- Linux & SQL security operations
+- Threat detection with Wireshark, tcpdump, Suricata
+- SIEM implementations (Splunk, Chronicle)
+- Python security automation scripts
 
-## Education 📚
-
-- A Bachelor’s degree in Computer Science from the University of the People
-- A Bachelor of Commerce (Honors) degree from the University of Cape Town
-- A Bachelor’s degree in Social Sciences from the University of Cape Town
-
----
-
-## Cybersecurity Portfolio
-Discover more of my work in these standalone portfolios:
-
-- [Cybersecurity-Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
-- [Python-Driven-Cybersecurity-Case-Study](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study)
-- [Hugh-Kumbi-Active-Directory-Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
-- [Vulnerability-Management-Portfolio](https://github.com/Hugh-Kumbi/Vulnerability-Management-Portfolio)
-
----
-
-## Resume 🌐
-[Hugh Chanetsa's Resume](https://drive.google.com/file/d/1d796lZVXzIRaN2d_zb3EQSSPzBnEQ3MK/view?usp=drive_link)
+**Tech:** `Python` `Linux` `SQL` `Wireshark` `Suricata` `Splunk` `NIST Framework`
 
 ---
 
-## Eager to Contribute and Innovate 💡
+### 🐍 [Python-Driven Cybersecurity Case Study](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study)
+Real-world security automation demonstrating Python's power in cybersecurity operations:
+- Login process automation and analysis
+- Pattern detection using regex
+- Security log parsing and investigation
+- Automated threat detection workflows
 
-I am eager to apply my cybersecurity knowledge and skills to challenging roles at leading organizations, where I can contribute to cutting-edge security initiatives.
+**Tech:** `Python` `Regex` `Security Automation` `Log Analysis`
 
 ---
- 
-## Connect with Me 🤳
 
-Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.hugh@protonmail.com. I’d love to network and share insights.
+### 🏢 [Active Directory Home Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
+Enterprise-grade AD environment showcasing Windows Server administration and security:
+- Windows Server 2025 deployment and configuration
+- Active Directory Domain Services (AD DS) setup
+- Group Policy Objects (GPO) implementation
+- User management and security policy enforcement
+- PowerShell automation scripts
 
-[<img align="left" alt="HughChanetsa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HughChanetsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HughChanetsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Tech:** `Windows Server 2025` `Active Directory` `PowerShell` `Group Policy` `DNS` `DHCP`
 
-[twitter]: https://twitter.com/hugh_chanetsa
-[linkedin]: https://linkedin.com/in/hugh-chanetsa
-[instagram]: https://www.instagram.com/hugh_kumbi
+---
+
+### 📝 [Hugh-Kumbi Repository](https://github.com/Hugh-Kumbi/Hugh-Kumbi)
+Portfolio hub featuring documentation, academic projects, and professional development work focusing on DevSecOps and secure coding practices.
+
+## Technical Skills
+
+**Security Operations**
+- Threat Detection & Incident Response
+- Vulnerability Assessment & Management
+- Security Auditing & Compliance (NIST, ISO)
+- Intrusion Detection Systems (Suricata)
+- SIEM Tools (Splunk, Chronicle)
+
+**Development & Automation**
+- Python (Security Automation, Scripting)
+- SQL (Database Security, Query Analysis)
+- PowerShell (System Administration)
+- Secure Software Development Lifecycle
+
+**Infrastructure & Networking**
+- Windows Server Administration
+- Active Directory & Group Policy
+- Linux System Administration
+- Network Security & Monitoring
+- TCP/IP, DNS, DHCP
+
+**Tools & Technologies**
+- Wireshark, tcpdump, Nmap
+- Jupyter Notebooks
+- Git & Version Control
+- Virtual Lab Environments
+
+## GitHub Stats
+
+![Hugh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hugh-Kumbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugh-Kumbi&layout=compact&theme=tokyonight&hide_border=true)
+
+## What Drives Me
+
+I'm passionate about staying ahead of emerging cyber threats and helping organizations build resilient security postures. My unique combination of technical skills, business acumen, and understanding of organizational dynamics enables me to approach cybersecurity challenges from multiple angles.
+
+**Core Values:**
+- ✅ Ethical security practices and responsible disclosure
+- 🎯 Proactive threat hunting over reactive responses
+- 🔄 Continuous learning in an evolving threat landscape
+- 🤝 Knowledge sharing and community contribution
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-Hugh_Chanetsa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugh-chanetsa)
+[![Twitter](https://img.shields.io/badge/-@hugh__chanetsa-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hugh_chanetsa)
+[![Instagram](https://img.shields.io/badge/-@hugh__kumbi-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hugh_kumbi)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:chanetsa.hugh@protonmail.com)
+[![Website](https://img.shields.io/badge/-Mei_Vault_Systems-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://meivaultsystems.com/)
+
+📄 **[View My Resume](https://drive.google.com/file/d/1d796lZVXzIRaN2d_zb3EQSSPzBnEQ3MK/view)**
+
+---
+
+<p align="center">
+  <i>💡 Open to collaboration on cybersecurity projects and security research initiatives</i>
+</p>
+<p align="center">
+  <i>🌏 Currently based in Hiroshima, Japan (UTC +9)</i>
+</p>
