@@ -54,7 +54,7 @@ A comprehensive vulnerability management lifecycle project showcasing:
 - Python automation for scan orchestration and reporting
 - Flask-based real-time metrics dashboard
 - SIEM integration (Wazuh) with correlation rules
-- 175+ vulnerable services across isolated lab environment (Metasploitable2/3, DVWA, OWASP Juice Shop)
+- 415++ vulnerable services across isolated lab environment (Metasploitable2/3, DVWA, OWASP Juice Shop)
 - Professional executive and technical reporting
 
 **Tech:** `OpenVAS` `Nessus` `Python` `Flask` `Wazuh` `Docker` `VMware` `NIST` `ISO 27001` `Jupyter`
