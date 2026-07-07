@@ -44,6 +44,19 @@ I'm a multidisciplinary cybersecurity professional combining technical expertise
 
 ## Featured Projects
 
+### 🛡️ [Cybersecurity Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
+Comprehensive portfolio demonstrating security frameworks, incident response, and hands-on tools:
+- NIST Cybersecurity Framework implementation
+- Security audits and risk assessments
+- Linux & SQL security operations
+- Threat detection with Wireshark, tcpdump, Suricata
+- SIEM implementations (Splunk, Chronicle)
+- Python security automation scripts
+
+**Tech:** `Python` `Linux` `SQL` `Wireshark` `Suricata` `Splunk` `NIST Framework`
+
+---
+
 ### 🎯 [Vulnerability Management Portfolio](https://github.com/Hugh-Kumbi/Vulnerability-Management-Portfolio)
 **Professional end-to-end vulnerability assessment framework demonstrating enterprise security operations.**
 
@@ -63,16 +76,15 @@ A comprehensive vulnerability management lifecycle project showcasing:
 
 ---
 
-### 🛡️ [Cybersecurity Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
-Comprehensive portfolio demonstrating security frameworks, incident response, and hands-on tools:
-- NIST Cybersecurity Framework implementation
-- Security audits and risk assessments
-- Linux & SQL security operations
-- Threat detection with Wireshark, tcpdump, Suricata
-- SIEM implementations (Splunk, Chronicle)
-- Python security automation scripts
+### 🏢 [Active Directory Home Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
+Enterprise-grade AD environment showcasing Windows Server administration and security:
+- Windows Server 2025 deployment and configuration
+- Active Directory Domain Services (AD DS) setup
+- Group Policy Objects (GPO) implementation
+- User management and security policy enforcement
+- PowerShell automation scripts
 
-**Tech:** `Python` `Linux` `SQL` `Wireshark` `Suricata` `Splunk` `NIST Framework`
+**Tech:** `Windows Server 2025` `Active Directory` `PowerShell` `Group Policy` `DNS` `DHCP`
 
 ---
 
@@ -84,18 +96,6 @@ Real-world security automation demonstrating Python's power in cybersecurity ope
 - Automated threat detection workflows
 
 **Tech:** `Python` `Regex` `Security Automation` `Log Analysis`
-
----
-
-### 🏢 [Active Directory Home Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
-Enterprise-grade AD environment showcasing Windows Server administration and security:
-- Windows Server 2025 deployment and configuration
-- Active Directory Domain Services (AD DS) setup
-- Group Policy Objects (GPO) implementation
-- User management and security policy enforcement
-- PowerShell automation scripts
-
-**Tech:** `Windows Server 2025` `Active Directory` `PowerShell` `Group Policy` `DNS` `DHCP`
 
 ---
 
