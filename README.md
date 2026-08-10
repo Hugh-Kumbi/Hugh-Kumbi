@@ -76,6 +76,27 @@ A comprehensive vulnerability management lifecycle project showcasing:
 
 ---
 
+### 🔍 [OSINT & Cyber Threat Intelligence Investigation](https://github.com/Hugh-Kumbi/Recruitment-Campaign-OSINT-Investigation)
+
+**Professional cyber threat intelligence investigation into a suspected multi-domain recruitment campaign using structured OSINT methodologies.**
+
+A comprehensive real-world investigation demonstrating intelligence collection, infrastructure analysis, behavioral correlation, and defensive reporting:
+
+- End-to-end OSINT investigation based on a real recruitment campaign
+- Multi-domain infrastructure correlation across five operational domains
+- Passive DNS, WHOIS, Certificate Transparency, and SSL certificate analysis
+- Technology fingerprinting and cloud infrastructure identification
+- MITRE ATT&CK and Diamond Model intelligence mapping
+- IOC development and detection opportunity identification
+- Timeline reconstruction and evidence management
+- Professional CTI reporting with defensive recommendations
+
+**Tech:** `OSINT` `CTI` `MITRE ATT&CK` `WHOIS` `Passive DNS` `Certificate Transparency` `Threat Intelligence` `Diamond Model`
+
+**Key Achievement:** Produced a professional cyber threat intelligence report documenting a multi-domain social engineering campaign through structured OSINT collection, infrastructure correlation, and intelligence-driven defensive analysis.
+
+---
+
 ### 🏢 [Active Directory Home Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
 Enterprise-grade AD environment showcasing Windows Server administration and security:
 - Windows Server 2025 deployment and configuration
