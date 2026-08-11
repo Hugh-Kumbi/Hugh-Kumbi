@@ -1,21 +1,24 @@
 # Hi, I'm Hugh Chanetsa 👋
 
-📍 **Hiroshima, Japan** | 🛡️ **Cybersecurity Professional** | 💻 **Software Engineer** | 🚀 **Founder**
+📍 Hiroshima, Japan | 🛡️ Cybersecurity Professional | 🎯 SOC • CTI • Vulnerability Management | 🚀 Security Researcher
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/Hugh-Kumbi)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/Hugh-Kumbi)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![OpenVAS](https://img.shields.io/badge/-OpenVAS-00C853?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CkvG4fgAAADVSURBVCgVY2AYBaNgFIwCBgYGBkYGBgYGBgYGBoZRMApGwSgYBUPFQYH///+fAYqBgIGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBoQ4AAP//AwDVAQ0BgAAAABJRU5ErkJggg==&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![Nessus](https://img.shields.io/badge/-Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![SIEM](https://img.shields.io/badge/-SIEM-00B8D4?style=flat-square&logo=splunk&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-00C853?style=flat-square)](https://github.com/Hugh-Kumbi)
+[![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Wazuh](https://img.shields.io/badge/Wazuh-0266C8?style=flat-square)](https://github.com/Hugh-Kumbi)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square)](https://github.com/Hugh-Kumbi)
+[![OSINT](https://img.shields.io/badge/OSINT-6A1B9A?style=flat-square)](https://github.com/Hugh-Kumbi)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Hugh-Kumbi)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/Hugh-Kumbi)
 
-> Building secure systems and defending against cyber threats. Passionate about proactive threat detection, secure application development, and protecting organizations from evolving security challenges.
+> Building practical cybersecurity capabilities through hands-on labs, cyber threat intelligence, vulnerability management, and security automation to help organizations detect, investigate, and defend against evolving threats.
 
 ## About Me
 
@@ -165,23 +168,25 @@ Portfolio hub featuring documentation, academic projects, and professional devel
 ## 📊 Portfolio Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CVEs_Assessed-225+-critical?style=for-the-badge" alt="CVEs Assessed" />
-  <img src="https://img.shields.io/badge/Compliance-5_Frameworks-blue?style=for-the-badge" alt="Compliance Frameworks" />
-  <img src="https://img.shields.io/badge/Lab_Environments-4_Active-green?style=for-the-badge" alt="Lab Environments" />
-  <img src="https://img.shields.io/badge/Certifications-4+-orange?style=for-the-badge" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Projects-5+-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CVEs_Assessed-225+-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-CTI_&_OSINT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise_Labs-4_Active-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security_Tools-OpenVAS_|_Nessus_|_Wazuh-red?style=for-the-badge" alt="Security Tools" />
-  <img src="https://img.shields.io/badge/Automation-Python_|_PowerShell_|_Flask-yellow?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Security_Tools-Wazuh_|_Splunk_|_OpenVAS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frameworks-NIST_|_MITRE_|_ISO-yellow?style=for-the-badge" />
 </p>
 
-**Key Achievements:**
-- 🎯 **225+ CVEs** assessed across OpenVAS & Nessus scanners
-- 🛡️ **5 Compliance Frameworks** mapped (NIST 800-53, ISO 27001, PCI-DSS, HIPAA, CIS Controls)
-- 🔧 **4 Enterprise Labs** built (175+ vulnerable services, isolated environments)
-- 📊 **Python Automation** - 20+ security scripts, Flask dashboard, SIEM integration
-- 🏅 **Industry Certifications** - Google Cybersecurity Pro, ISC2 CC, Security+ (in progress)
+**Highlights**
+
+- 🔍 Conducted a full cyber threat intelligence investigation into a multi-domain recruitment campaign
+- 🎯 Assessed 225+ CVEs across enterprise vulnerability management lab environments
+- 🛡️ Built enterprise Active Directory and Windows Server security labs
+- 📊 Developed security automation using Python, PowerShell, and Flask
+- 🧠 Applied MITRE ATT&CK, Diamond Model, and the Intelligence Lifecycle to real-world investigations
+- 🏅 Earned industry certifications including ISC² CC and Google Cybersecurity Professional Certificate
 
 ## What Drives Me
 
