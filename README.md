@@ -79,7 +79,7 @@ A comprehensive vulnerability management lifecycle project showcasing:
 
 ---
 
-### 🔍 [OSINT & Cyber Threat Intelligence Investigation](https://github.com/Hugh-Kumbi/Recruitment-Campaign-OSINT-Investigation)
+### 🔍 [OSINT & Cyber Threat Intelligence Investigation](https://github.com/Hugh-Kumbi/Operation-Phantom-Store)
 
 **Professional cyber threat intelligence investigation into a suspected multi-domain recruitment campaign using structured OSINT methodologies.**
 
