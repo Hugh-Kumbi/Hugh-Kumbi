@@ -17,6 +17,7 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/Hugh-Kumbi)
+![Threat Intelligence: STIX | MISP | ATT&CK](https://img.shields.io/badge/Threat_Intelligence-STIX_|_MISP_|_ATT%26CK-purple?style=for-the-badge)
 
 > Building practical cybersecurity capabilities through hands-on labs, cyber threat intelligence, vulnerability management, and security automation to help organizations detect, investigate, and defend against evolving threats.
 
@@ -36,6 +37,7 @@ I'm a multidisciplinary cybersecurity professional combining technical expertise
 - 🤖 Python Automation for Security Operations
 - 📊 Security Information & Event Management (SIEM)
 - 🎯 Risk Assessment & Mitigation Strategies
+- 🛡️ Detection Engineering & Threat Hunting
 
 ## Certifications
 
@@ -79,24 +81,28 @@ A comprehensive vulnerability management lifecycle project showcasing:
 
 ---
 
-### 🔍 [OSINT & Cyber Threat Intelligence Investigation](https://github.com/Hugh-Kumbi/Operation-Phantom-Store)
+### 🔍 [Operation Phantom Store – Cyber Threat Intelligence Investigation](https://github.com/Hugh-Kumbi/Operation-Phantom-Store)
 
-**Professional cyber threat intelligence investigation into a suspected multi-domain recruitment campaign using structured OSINT methodologies.**
+**Comprehensive Cyber Threat Intelligence (CTI) investigation into a multi-domain recruitment fraud campaign using structured OSINT methodologies and industry-standard intelligence frameworks.**
 
-A comprehensive real-world investigation demonstrating intelligence collection, infrastructure analysis, behavioral correlation, and defensive reporting:
+This end-to-end investigation demonstrates professional CTI tradecraft through evidence-based intelligence collection, infrastructure analysis, behavioural correlation, and defensive reporting.
 
-- End-to-end OSINT investigation based on a real recruitment campaign
+Highlights include:
+
+- Intelligence Lifecycle applied from collection through dissemination
 - Multi-domain infrastructure correlation across five operational domains
-- Passive DNS, WHOIS, Certificate Transparency, and SSL certificate analysis
-- Technology fingerprinting and cloud infrastructure identification
-- MITRE ATT&CK and Diamond Model intelligence mapping
-- IOC development and detection opportunity identification
-- Timeline reconstruction and evidence management
-- Professional CTI reporting with defensive recommendations
+- Passive DNS, WHOIS, Certificate Transparency, and SSL analysis
+- Technology stack fingerprinting and cloud infrastructure analysis
+- MITRE ATT&CK mapping and ATT&CK Navigator layer
+- Diamond Model and Attack Lifecycle analysis
+- Detection engineering with SIEM, Sigma, Splunk SPL, and Microsoft Sentinel (KQL) examples
+- Intelligence Requirements, Intelligence Gaps, and Confidence Assessments
+- IOC development, STIX 2.1 and MISP intelligence exports
+- Mermaid attack graph and executive intelligence reporting
 
-**Tech:** `OSINT` `CTI` `MITRE ATT&CK` `WHOIS` `Passive DNS` `Certificate Transparency` `Threat Intelligence` `Diamond Model`
+**Tech:** `CTI` `OSINT` `MITRE ATT&CK` `ATT&CK Navigator` `STIX 2.1` `MISP` `Passive DNS` `WHOIS` `Certificate Transparency` `Sigma` `Splunk` `KQL`
 
-**Key Achievement:** Produced a professional cyber threat intelligence report documenting a multi-domain social engineering campaign through structured OSINT collection, infrastructure correlation, and intelligence-driven defensive analysis.
+**Key Achievement:** Produced a complete Cyber Threat Intelligence investigation including structured OSINT collection, MITRE ATT&CK mapping, ATT&CK Navigator, STIX/MISP intelligence exports, detection engineering recommendations, and executive reporting for a real-world multi-domain recruitment fraud campaign.
 
 ---
 
@@ -128,64 +134,88 @@ Portfolio hub featuring documentation, academic projects, and professional devel
 
 ## Technical Skills
 
-**Vulnerability Management & Assessment**
-- Vulnerability Scanning (OpenVAS, Nessus Essentials Plus, Nuclei)
-- Risk Assessment & Prioritization (CVSS, Business Impact Analysis)
-- Compliance Frameworks (NIST 800-53, ISO 27001, CIS Controls, PCI-DSS, HIPAA)
-- Patch Management & Remediation Validation
-- False Positive Analysis & Multi-Scanner Correlation
+### Cyber Threat Intelligence (CTI) & OSINT
 
-**Security Operations**
-- Threat Detection & Incident Response
-- Security Auditing & Compliance (NIST, ISO)
-- Intrusion Detection Systems (Suricata)
-- SIEM Tools (Splunk, Chronicle, Wazuh)
-- Network Traffic Analysis (Wireshark, tcpdump)
+* Intelligence Lifecycle & Structured Analytic Techniques
+* Open Source Intelligence (OSINT) Collection & Analysis
+* Threat Actor & Infrastructure Profiling
+* Passive DNS, WHOIS & Certificate Transparency Analysis
+* MITRE ATT&CK & ATT&CK Navigator
+* Diamond Model & Attack Graph Analysis
+* STIX 2.1 & MISP Threat Intelligence
+* Indicators of Compromise (IOC) Development
+* Threat Hunting & Intelligence Reporting
 
-**Development & Automation**
-- Python (Security Automation, Scripting)
-- SQL (Database Security, Query Analysis)
-- PowerShell (System Administration)
-- Secure Software Development Lifecycle
+### Detection Engineering & Security Operations
 
-**Infrastructure & Networking**
-- Windows Server Administration
-- Active Directory & Group Policy
-- Linux System Administration
-- Network Security & Monitoring
-- TCP/IP, DNS, DHCP
-- Virtualization (VMware Workstation)
-- Lab Environment Design & Isolation
+* Threat Detection & Incident Response
+* SIEM Engineering (Splunk, Chronicle, Wazuh)
+* Detection Logic Development
+* Sigma Rule Development
+* Microsoft Sentinel (KQL)
+* Splunk SPL
+* Network Traffic Analysis (Wireshark, tcpdump)
+* Intrusion Detection Systems (Suricata)
 
-**Tools & Technologies**
-- Wireshark, tcpdump, Nmap
-- Docker & Container Security
-- Jupyter Notebooks
-- Git & Version Control
-- Virtual Lab Environments
-- Flask Web Development
+### Vulnerability Management
+
+* Vulnerability Scanning (OpenVAS, Nessus Essentials Plus, Nuclei)
+* Risk Assessment & Prioritization (CVSS, Business Impact Analysis)
+* Patch Management & Remediation Validation
+* False Positive Analysis & Multi-Scanner Correlation
+* Compliance Mapping (NIST 800-53, ISO 27001, CIS Controls, PCI DSS, HIPAA)
+
+### Infrastructure & System Administration
+
+* Windows Server Administration
+* Active Directory & Group Policy
+* Linux System Administration
+* TCP/IP, DNS & DHCP
+* Network Security & Monitoring
+* VMware Workstation
+* Enterprise Lab Design & Isolation
+
+### Development & Security Automation
+
+* Python (Security Automation & Analysis)
+* PowerShell
+* SQL
+* Flask
+* Git & Version Control
+* Docker
+* Secure Software Development Lifecycle (SSDLC)
+* Jupyter Notebooks
+
+---
 
 ## 📊 Portfolio Impact
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity_Projects-5+-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CVEs_Assessed-225+-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat_Intelligence-CTI_&_OSINT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Enterprise_Labs-4_Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CVEs_Assessed-225+-red?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security_Tools-Wazuh_|_Splunk_|_OpenVAS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-CTI_|_OSINT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STIX_2.1_|_MISP-Operational_Intelligence-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-ATT%26CK_Navigator-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIEM-Splunk_|_Chronicle_|_Wazuh-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Detection-Sigma_|_KQL_|_Threat_Hunting-darkgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frameworks-NIST_|_MITRE_|_ISO-yellow?style=for-the-badge" />
 </p>
 
 **Highlights**
 
-- 🔍 Conducted a full cyber threat intelligence investigation into a multi-domain recruitment campaign
-- 🎯 Assessed 225+ CVEs across enterprise vulnerability management lab environments
-- 🛡️ Built enterprise Active Directory and Windows Server security labs
+- 🔍 Completed an end-to-end Cyber Threat Intelligence investigation into a multi-domain recruitment fraud campaign
+- 📡 Produced STIX 2.1 and MISP intelligence exports for operational sharing
+- 🎯 Developed SIEM, Sigma, Splunk, and Microsoft Sentinel detection opportunities
+- 🛡️ Built enterprise vulnerability management and Active Directory lab environments
 - 📊 Developed security automation using Python, PowerShell, and Flask
-- 🧠 Applied MITRE ATT&CK, Diamond Model, and the Intelligence Lifecycle to real-world investigations
+- 🧠 Applied the Intelligence Lifecycle, MITRE ATT&CK, Diamond Model, and ATT&CK Navigator
 - 🏅 Earned industry certifications including ISC² CC and Google Cybersecurity Professional Certificate
 
 ## What Drives Me
