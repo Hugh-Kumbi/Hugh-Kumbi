@@ -17,7 +17,7 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/Hugh-Kumbi)
-[![Threat Intelligence: STIX | MISP | ATT&CK](https://img.shields.io/badge/Threat_Intelligence-STIX_|_MISP_|_ATT%26CK-purple?style=for-the-badge)](https://github.com/Hugh-Kumbi/Operation-Phantom-Store)
+[![Threat Intelligence: STIX | MISP | ATT&CK](https://img.shields.io/badge/Threat_Intelligence-STIX_|_MISP_|_ATT%26CK-purple?style=for-the-badge)](https://github.com/Hugh-Kumbi)
 
 > Building practical cybersecurity capabilities through hands-on labs, cyber threat intelligence, vulnerability management, and security automation to help organizations detect, investigate, and defend against evolving threats.
 
