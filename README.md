@@ -2,8 +2,6 @@
 
 📍 Hiroshima, Japan 
 
----
-
 🛡️ Security Engineer | Cloud Security | Detection Engineering | Threat Intelligence | Security Automation
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Hugh-Kumbi)
