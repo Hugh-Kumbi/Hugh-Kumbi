@@ -182,7 +182,7 @@ Demonstrates practical defensive security capabilities across monitoring, networ
 
 Automation projects focused on streamlining security investigations, log analysis, reporting, and operational workflows.
 
-### Business Value
+#### Business Value
 
 Highlights the value of automation in reducing repetitive manual tasks performed by security teams. By automating log analysis, reporting, and investigation workflows, organizations can improve operational efficiency, reduce response times, and allow analysts to focus on higher-value security activities.
 
