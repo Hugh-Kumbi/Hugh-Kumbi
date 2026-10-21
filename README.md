@@ -62,7 +62,7 @@ I build practical cybersecurity solutions that mirror real enterprise environmen
 
 Enterprise cloud security engineering portfolio demonstrating practical implementation of AWS-native security controls, threat detection, encryption, identity management, logging pipelines, and AI-powered security automation.
 
-Current Projects:
+Current Projects:  
 🚧 IAM Hardening  
 🚧 GuardDuty Threat Detection  
 🚧 CloudTrail Logging Pipeline   
