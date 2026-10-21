@@ -32,12 +32,13 @@ I'm a multidisciplinary cybersecurity professional combining technical expertise
 
 ## Current Focus
 
-- 🔐 Application Development Security & Secure Coding Practices
-- 🌐 Network Security & System Administration
-- 🤖 Python Automation for Security Operations
-- 📊 Security Information & Event Management (SIEM)
-- 🎯 Risk Assessment & Mitigation Strategies
+- ☁️ AWS Cloud Security Engineering
+- 🔐 Identity & Access Management (IAM)
 - 🛡️ Detection Engineering & Threat Hunting
+- 📊 Cloud Logging & Security Monitoring
+- 🤖 Python Security Automation
+- 🔑 Cloud Data Protection & Encryption
+- 🚀 DevSecOps & Security Automation
 
 ## Certifications
 
