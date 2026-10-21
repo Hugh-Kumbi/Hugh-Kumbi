@@ -1,6 +1,8 @@
 # Hi, I'm Hugh Chanetsa 👋
 
-📍 Hiroshima, Japan | 🛡️ Cybersecurity Professional | 🎯 SOC • CTI • Vulnerability Management | 🚀 Security Researcher
+📍 Hiroshima, Japan 
+
+🛡️ Security Engineer | Cloud Security | Detection Engineering | Threat Intelligence | Security Automation
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/Hugh-Kumbi)
@@ -19,11 +21,17 @@
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/Hugh-Kumbi)
 [![Threat Intelligence: STIX | MISP | ATT&CK](https://img.shields.io/badge/Threat_Intelligence-STIX_|_MISP_|_ATT%26CK-purple?style=flat-square)](https://github.com/Hugh-Kumbi)
 
-> Building practical cybersecurity capabilities through hands-on labs, cyber threat intelligence, vulnerability management, and security automation to help organizations detect, investigate, and defend against evolving threats.
+> Building enterprise security projects that combine cloud security, infrastructure hardening, detection engineering, automation, and cyber threat intelligence.
 
 ## About Me
 
-I'm a multidisciplinary cybersecurity professional combining technical expertise with a unique educational background spanning computer science, business, and social sciences. Based in Japan, I'm actively seeking cybersecurity opportunities while building **[Mei Vault Systems](https://meivaultsystems.com/)** - a security-focused startup project where I'm developing practical solutions and expanding my technical portfolio.
+I build practical cybersecurity solutions that mirror real enterprise environments. My projects focus on cloud security, detection engineering, identity management, vulnerability management, cyber threat intelligence, and security automation using Python and AWS.
+
+**My goal is simple:**
+- Design secure systems.
+- Detect threats early.
+- Automate repetitive security tasks.
+- Help organizations reduce risk.
 
 **Education:**
 - 🎓 B.S. Computer Science (Software Engineering) - University of the People
@@ -50,16 +58,18 @@ I'm a multidisciplinary cybersecurity professional combining technical expertise
 
 ## Featured Projects
 
-### 🛡️ [Cybersecurity Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
-Comprehensive portfolio demonstrating security frameworks, incident response, and hands-on tools:
-- NIST Cybersecurity Framework implementation
-- Security audits and risk assessments
-- Linux & SQL security operations
-- Threat detection with Wireshark, tcpdump, Suricata
-- SIEM implementations (Splunk, Chronicle)
-- Python security automation scripts
+### ☁ [AWS Cloud Security Engineering Portfolio]()
 
-**Tech:** `Python` `Linux` `SQL` `Wireshark` `Suricata` `Splunk` `NIST Framework`
+Enterprise cloud security engineering portfolio demonstrating practical implementation of AWS-native security controls, threat detection, encryption, identity management, logging pipelines, and AI-powered security automation.
+
+Current Projects:
+🚧 IAM Hardening
+🚧 GuardDuty Threat Detection
+🚧 CloudTrail Logging Pipeline
+🚧 AWS KMS Encryption
+🚧 Secrets Manager
+🚧 AI Security Scanner
+🚧 AI Security Guard
 
 ---
 
@@ -83,13 +93,11 @@ A comprehensive vulnerability management lifecycle project showcasing:
 ---
 
 ### 🔍 [Operation Phantom Store – Cyber Threat Intelligence Investigation](https://github.com/Hugh-Kumbi/Operation-Phantom-Store)
-
 **Comprehensive Cyber Threat Intelligence (CTI) investigation into a multi-domain recruitment fraud campaign using structured OSINT methodologies and industry-standard intelligence frameworks.**
 
 This end-to-end investigation demonstrates professional CTI tradecraft through evidence-based intelligence collection, infrastructure analysis, behavioural correlation, and defensive reporting.
 
 Highlights include:
-
 - Intelligence Lifecycle applied from collection through dissemination
 - Multi-domain infrastructure correlation across five operational domains
 - Passive DNS, WHOIS, Certificate Transparency, and SSL analysis
@@ -107,7 +115,7 @@ Highlights include:
 
 ---
 
-### 🏢 [Active Directory Home Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
+### 🏢 [Enterprise Active Directory Lab](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab)
 Enterprise-grade AD environment showcasing Windows Server administration and security:
 - Windows Server 2025 deployment and configuration
 - Active Directory Domain Services (AD DS) setup
@@ -116,6 +124,19 @@ Enterprise-grade AD environment showcasing Windows Server administration and sec
 - PowerShell automation scripts
 
 **Tech:** `Windows Server 2025` `Active Directory` `PowerShell` `Group Policy` `DNS` `DHCP`
+
+---
+
+### 🛡️ [Cybersecurity Portfolio](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio)
+Comprehensive portfolio demonstrating security frameworks, incident response, and hands-on tools:
+- NIST Cybersecurity Framework implementation
+- Security audits and risk assessments
+- Linux & SQL security operations
+- Threat detection with Wireshark, tcpdump, Suricata
+- SIEM implementations (Splunk, Chronicle)
+- Python security automation scripts
+
+**Tech:** `Python` `Linux` `SQL` `Wireshark` `Suricata` `Splunk` `NIST Framework`
 
 ---
 
