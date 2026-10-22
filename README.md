@@ -83,7 +83,7 @@ This portfolio demonstrates practical cybersecurity engineering across cloud sec
 
 ## ☁️ Security Engineering
 
-### [AWS Cloud Security Engineering Portfolio *(In Progress)*](https://github.com/Hugh-Kumbi/Hugh-Kumbi/tree/main)
+### [AWS Cloud Security Engineering Portfolio *(In Progress)*](https://github.com/Hugh-Kumbi/AWS-Security-Automation-Portfolio)
 
 Enterprise cloud security engineering using AWS-native security services, identity management, centralized logging, encryption, and AI-powered security automation.
 
